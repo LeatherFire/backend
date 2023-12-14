@@ -1,5 +1,3 @@
-Tabii ki, `dbURI` değişkeninin kullanıcı tarafından değiştirilmemesi önemli. Aşağıda, README dosyanızı bu durumu dikkate alacak şekilde düzenlemiş bir örnek bulunmaktadır:
-
 # MongoDB ile Backend Projesi
 
 Bu proje, MongoDB veritabanını kullanarak basit bir backend uygulamasını içermektedir. Aşağıdaki adımları takip ederek projeyi kullanabilirsiniz.
